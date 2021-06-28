@@ -1,0 +1,17 @@
+
+legend {
+    font-size: 18px;
+    font-weight: bold;
+    width: auto;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.nav_buttom_right {
+    position: fixed;
+    bottom: 5px;
+    right: 15px;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px rgb(0, 162, 255);
+    z-index: 1;
+}
